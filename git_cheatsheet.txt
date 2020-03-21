@@ -1,0 +1,13 @@
+add git into a directory
+-> git init
+
+make a comit
+-> git add file?name/folder_name
+-> git commit -m "meaningful message"
+
+See the difference from last commit
+-> git diff
+
+see commit logs
+-> git log (long way)
+-> git lg (short way)
